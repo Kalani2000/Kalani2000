@@ -2,7 +2,7 @@
    
  - 👀 I’m interested in Project Manager, BA & QA
    
- - 🌱 I’m currently learning at Sir Jon Kotelawala Defense University
+ - 🌱 I’m currently learning at Sir John Kotelawala Defense University
    
  - 💞️ I’m looking to collaborate on Coding
    
